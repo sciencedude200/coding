@@ -1,0 +1,14 @@
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/spin-cb28b39a426d7f33.rmeta: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs
+
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/libspin-cb28b39a426d7f33.rlib: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs
+
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/spin-cb28b39a426d7f33.d: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs
+
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lib.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/barrier.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/lazy.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/mutex/spin.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/once.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/rwlock.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.4/src/relax.rs:

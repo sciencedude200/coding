@@ -1,0 +1,12 @@
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/cipher-7e98d3dee5a5e497.rmeta: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/block.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/errors.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_core.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_wrapper.rs
+
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/libcipher-7e98d3dee5a5e497.rlib: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/block.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/errors.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_core.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_wrapper.rs
+
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/cipher-7e98d3dee5a5e497.d: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/block.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/errors.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_core.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_wrapper.rs
+
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/lib.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/block.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/errors.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_core.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.4.3/src/stream_wrapper.rs:

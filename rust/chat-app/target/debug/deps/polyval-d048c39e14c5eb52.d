@@ -1,0 +1,12 @@
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/polyval-d048c39e14c5eb52.rmeta: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/soft64.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/mulx.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/autodetect.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/clmul.rs
+
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/libpolyval-d048c39e14c5eb52.rlib: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/soft64.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/mulx.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/autodetect.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/clmul.rs
+
+/mnt/c/users/Abema/OneDrive/Desktop/coding/rust/chat-app/target/debug/deps/polyval-d048c39e14c5eb52.d: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/soft64.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/mulx.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/autodetect.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/clmul.rs
+
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/lib.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/soft64.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/mulx.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/autodetect.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.6.0/src/backend/clmul.rs:

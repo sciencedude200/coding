@@ -1,0 +1,12 @@
+c:\Users\Abema\OneDrive\Desktop\coding\rust\shreck\target\debug\deps\viuer-fd430333bcc0ba9c.rmeta: C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\lib.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\config.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\error.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\mod.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\block.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\kitty.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\iterm.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\utils.rs
+
+c:\Users\Abema\OneDrive\Desktop\coding\rust\shreck\target\debug\deps\viuer-fd430333bcc0ba9c.d: C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\lib.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\config.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\error.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\mod.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\block.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\kitty.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\iterm.rs C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\utils.rs
+
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\lib.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\config.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\error.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\mod.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\block.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\kitty.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\printer\iterm.rs:
+C:\Users\Abema\.cargo\registry\src\github.com-1ecc6299db9ec823\viuer-0.6.2\src\utils.rs:

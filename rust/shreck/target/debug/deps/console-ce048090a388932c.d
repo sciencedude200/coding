@@ -1,0 +1,12 @@
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/console-ce048090a388932c.rmeta: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs
+
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/libconsole-ce048090a388932c.rlib: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs
+
+/mnt/c/Users/Abema/OneDrive/Desktop/coding/rust/shreck/target/debug/deps/console-ce048090a388932c.d: /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs
+
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs:
+/home/abe/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs:
